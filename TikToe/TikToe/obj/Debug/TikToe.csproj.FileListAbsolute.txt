@@ -1,0 +1,6 @@
+C:\Users\liuliu\source\repos\TikToe\TikToe\obj\Debug\TikToe.csproj.AssemblyReference.cache
+C:\Users\liuliu\source\repos\TikToe\TikToe\obj\Debug\TikToe.csproj.SuggestedBindingRedirects.cache
+C:\Users\liuliu\source\repos\TikToe\TikToe\obj\Debug\MainWindow.g.cs
+C:\Users\liuliu\source\repos\TikToe\TikToe\obj\Debug\App.g.cs
+C:\Users\liuliu\source\repos\TikToe\TikToe\obj\Debug\TikToe_MarkupCompile.cache
+C:\Users\liuliu\source\repos\TikToe\TikToe\obj\Debug\TikToe_MarkupCompile.lref
